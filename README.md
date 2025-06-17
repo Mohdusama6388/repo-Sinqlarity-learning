@@ -1,2 +1,2 @@
-# repo-Sinqlarity-learning
+# SinQlarity-learning
 
